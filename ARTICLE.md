@@ -8,3 +8,6 @@ Veri veri usefull article for all CS Majors!
 
 ## Proof Reading
 Article checked for typos
+
+## Comment
+Daewoong Lim: I find it veri veri interesting!!
